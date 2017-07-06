@@ -1,0 +1,1 @@
+{"front":"Who is the best NBA player?","back":"Lebron James","type":"basic"};{"front":"Who is the US president?","back":"Donald Trump","type":"basic"};{"cloze":"US","fullText":"DT president of US","partial":"DT president of _______","type":"cloze"};{"front":"who are you","back":"greg","type":"basic"};
